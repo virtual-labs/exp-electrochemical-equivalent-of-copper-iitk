@@ -8,10 +8,10 @@
 <b> Experiment : Name of the experiment	 <a name="top"></a> <br>
 </p>
 
-<b>Discipline | Fill your discipline name here <b> 
+<b>Discipline | Physical Science <b> 
 :--|:--|
-<b> Lab | Fill your lab name here<b> 
-<b> Experiment|  Fill your experiment name here   <b> 
+<b> Lab |  Physicsl Lab <b> 
+<b> Experiment| To determine the elecrochemical equivalent (ECE) of Cupper <b> 
 
 
 <h4> [1. Focus Area](#LO)
@@ -64,7 +64,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.|   <br>  |   <br>  | <br> 
+1.|   <br>  |  <br>| <br> 
 2.|   <br>  |   <br>  | <br> 
 
 
@@ -81,5 +81,10 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.|  <br> | <br> |   
-2.|  <br> | <br> |
+1.|  Student will open the simulator | Simulator will show the complete circuit and others equipments arrangement which has been used during the experiment.  | To initiate the simulator and to rewise the students to the basic equipments required for determing the ECE of copper electrode.  
+2.|  Simulator will allow the students to slide the resistance bar| By sliding the bar students will able to chose the value of resistance as per his/her accordance. |To create a load
+3.|  Simulator will show the weighing machine| Student will able to weight the Cupper electrode|To measure the initial weight of copper
+4.|  Simulator will also show the stopwatch .| Student will use it during experiment running time.  |To note the value of time 
+5.|Simulator will allow students to move Cupper electrode | Student will put the Cupper electrode inside the Cupper sulphate solution.<br> |To make the close circuit connection.
+6.|  Simulator will allow to students to make click on switch and same time student will ON the stopwatch.|Student will switch ON the circuit and close the circuit and start the stopwatch.|To take current reading and time reading.
+7.|  Now simulator will show the current reading.|Student will  pause the stopwatch and break the connection at given interval of time. |To take reading at certain  time interval of time.
