@@ -24,7 +24,7 @@
         "a": "Parallel",
         "b": "series",
         "c": "both series and parallel",
-        "d": "none of the above "
+        "d": "none of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
