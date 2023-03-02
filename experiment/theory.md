@@ -1,4 +1,4 @@
-Electrochemical equivalent:<br><br>
+<b>Electrochemical equivalent</b>:<br><br>
 An electrochemical equivalent (ECE) is the amount of a substance in grams produced or consumed by the passage of one coulomb of electricity in an electrochemical reaction.voltmeter is used to measure the electrochemical equivalent of an element. ECE is mainly used for determining the kinetics of corrosion rates and to estimate the oxidizing power in specific environments. Electrochemical equivalent can be abbreviated as Eq (grams per coulomb).<br><br>
 Faraday’s first law of electrolysis states that, the amount of substance liberated at an electrode is directly proportional to the quantity of electricity passed.<br>
 
@@ -37,7 +37,7 @@ Data for determining the ammeter reading with time
 <img src="images/table.png">
 
 
-calculation<br><br>
+<b>calculation</b><br><br>
 Mass of copper deposited <br>
 Initial mass of the cathode, W1 = 27.6 gm<br>
 Final mass of the cathode, W2 = 28.6 gm<br>
