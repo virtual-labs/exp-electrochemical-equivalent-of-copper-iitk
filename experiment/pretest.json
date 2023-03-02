@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1.Five volts is applied to 2 ohm resistor in series, the resulting current is ?",
+      "question": "1.Five volts is applied to 2 ohm resistor in series, the resulting current is?",
       "answers": {
         "a": "2.5 Ampere",
         "b": "25 Ampere",
@@ -32,7 +32,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     }
   ]
