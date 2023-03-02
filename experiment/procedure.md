@@ -1,4 +1,4 @@
-<h3> Procedure of Performing the Simulation</h3>
+<b>Procedure of Performing the Simulation</b><br>
 <ol> 
   <li> As the student will open the simulator then simulator will show semantic diagram of copmlete arrangement of Electrochemical Equivalent (ECE) Of Copper.<br> </li>
 <li> Firstly User will measure the  initial weight of cupper elctrode by using of weighing machine. <br></li>
@@ -19,7 +19,7 @@
 1.|   <br>  |   <br>  | <br> 
 2.|   <br>  |   <br>  | <br> 
 </ol>
-<h3> Calculation </h3>
+<b>Calculation</b>
 
 
 <h4> Suppose obtained data are </h4> 
