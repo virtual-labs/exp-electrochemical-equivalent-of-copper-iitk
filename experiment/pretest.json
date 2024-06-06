@@ -2,72 +2,55 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1.Five volts is applied to 2 ohm resistor in series, the resulting current is ?",
+      "question": "1.Hall effect is useful for the measurement of a semiconductor's?",
       "answers": {
-        "a": "2.5 Ampere",
-        "b": "25 Ampere",
-        "c": "0.25 Ampere",
-        "d": " no current will flow",
+        "a": "mobility, carrier concentration and temperature",
+        "b": "type (n-type or p-type), conductivity and temperature",
+        "c": "type (n-type or p-type), mobility and carrier concentration",
+        "d": "mobility, conductivity and temperature"
       },
       "explanations": {
-        "a": "By ohm's law i=V/R= 5/2=2.5ampere",
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "2.An ammeter is connected to the circuit ?",
+      "question": "2.Measurement of Hall coefficient enables the determination of:",
       "answers": {
-        "a": "Parallel ",
-        "b": "series",
-        "c": "both series and parallel",
-        "d": "none of the above "
+        "a": "Temperature coefficient and thermal conductivity",
+        "b": "Mobility and concentration of charge carriers",
+        "c": " Fermi level and forbidden energy gap",
+        "d": " none of the above"
       },
       "explanations": {
-        "a": "Explanation 1 ",
-        "b": "An ammeter is an instrument that is used to measure the current flowing through the circuit. It has low resistance, ideally zero.By connecting the ammeter in series allows all of the circuit current to pass through it, and hence measure it.",
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
-    },
-    {
-      "question": "3.What is the purpose of determining the electrochemical equivalent of copper ?",
-      "answers": {
-        "a": " To calculate the atomic mass of copper",
-        "b": "To determine the amount of copper deposited during electrolysis",
-        "c": "To measure the conductivity of copper",
-        "d": " To determine the oxidation state of copper",
-      },
-      "explanations": {
-        "a": "Explanation 1 ",
-        "b": "The electrochemical equivalent of copper is the amount of copper deposited during electrolysis per unit charge passed through the electrolyte. This helps in understanding the relationship between electric current and the amount of substance deposited.",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "b",
-      "difficulty": "Moderate"
     },
      {
-      "question": "4.What is the relationship between the electrochemical equivalent of copper and the electric charge passed through the electrolyte ?",
+      "question": "3.current in the conductor, and to an applied perpendicular to the current. field?",
       "answers": {
-        "a": "Inversely proportional",
-        "b": "Directly proportional",
-        "c": "No relationship",
-        "d": " Exponential relationship",
+        "a": "parallel, electric",
+        "b": "transverse, electric",
+        "c": "parallel, magnetic",
+        "d": "transverse, magnetic "
       },
       "explanations": {
-        "a": "Explanation 2 ",
-        "b": "According to Faraday's laws of electrolysis, the amount of substance deposited during electrolysis is directly proportional to the electric charge passed through the electrolyte. Therefore, the electrochemical equivalent of copper is directly proportional to the electric charge passed.",
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
-      "difficulty": "Moderate"
-    },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
   ]
 }
