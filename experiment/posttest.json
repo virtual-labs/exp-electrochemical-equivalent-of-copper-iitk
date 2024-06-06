@@ -2,55 +2,55 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1: Calculate the hall voltage when the magnetic field is 8 A/m current is 4 A, width is 5m and the concentration of carrier is 1020 ?",
+      "question": "1: What is the unit of electrochemical value of cupper. ?",
       "answers": {
-        "a": "4.125 V",
-        "b": "0.312 V",
-        "c": "4.2 V",
-        "d": "0.4 V"
+        "a": "coulomb/gram ",
+        "b": "kg/ampere",
+        "c": "gram/coulomb",
+        "d": "gram/second "
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "d",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "2: A hall's effect pick-up can be used for measuring ?",
-      "answers": {
-        "a": "magnetic flux",
-        "b": "pressure",
-        "c": "current",
-        "d": "relative humidity"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
+        "c": "Electrochemical equivalent of a substance may be defined as the mass of the substance deposited when a current of 1 Ampere is passed for 1 Second, i.e. a quantity of electricity of one Coulomb is passed. hence its unit is Gram/Coulomb.",
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
-{
-"question": "3: The Hall effect ?",
+    {
+      "question": "2: The electrochemical equivalent of copper is 0.0003296 g coulomb-1. Calculate the amount of copper deposited by a current of 0.5 ampere flowing through copper sulphate solution for 50 minutes. ?",
       "answers": {
-        "a": "is a phenomenon with no practical applications",
-        "b": "is used in various sensor applications",
-        "c": "can develop potentials of thousands of volts",
-        "d": "is the basis for solar cell operation"
+        "a": "0.5478",
+        "b": "0.4944",
+        "c": "0.4577",
+        "d": "insufficient data "
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "b": "According to faraday's first law W=2it,W=0.5×50×60×0.003296=0.4944g",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
       "correctAnswer": "b",
-      "difficulty": "beginner"
+      "difficulty": "Medium"
+    },
+{
+"question": "3:A solution of copper sulphate electrolysed for 20 minute with a current of 1.5 ampere calculate the mass of copper deposited at the cathode ",
+      "answers": {
+        "a": "0.593 gram",
+        "b": "10 gram",
+        "c": "1.25 gram",
+        "d": "5.29 gram"
+      },
+      "explanations": {
+        "a": "We know that, W=EIt/F=2×9650063.52×1.5×20×60=0.593g <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "A",
+      "difficulty": "medium"
     }
   ]
 }
