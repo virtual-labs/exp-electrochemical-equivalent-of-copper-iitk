@@ -1,4 +1,3 @@
-
 {
   "version": 2.0,
   "questions": [
@@ -37,7 +36,6 @@
       "correctAnswer": "b",
       "difficulty": "Medium"
     },
-    
 {
 "question": "3:A solution of copper sulphate electrolysed for 20 minute with a current of 1.5 ampere calculate the mass of copper deposited at the cathode ",
       "answers": {
@@ -55,10 +53,8 @@
       "correctAnswer": "a",
       "difficulty": "medium"
     },
-    
-
 {
-"question": "3:An elecrochemcal equivalent(M) is given by which of the below expression ",
+"question": "4:An elecrochemcal equivalent(M) is given by which of the below expression ",
       "answers": {
         "a": "M=Z*i*t",
         "b": "M=Z/i",
@@ -75,7 +71,7 @@
       "difficulty": "esay"
     },
     
-   { "question": "4:Which of the following represents the correct order of electron releasing tendency of metals  ",
+   { "question": "5:Which of the following represents the correct order of electron releasing tendency of metals  ",
       "answers": {
         "a": "Zn>Cu>Ag",
         "b": "Zn>Ag>Cu",
