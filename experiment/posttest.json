@@ -1,3 +1,4 @@
+
 {
   "version": 2.0,
   "questions": [
@@ -18,6 +19,7 @@
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
+    
     {
       "question": "2: The electrochemical equivalent of copper is 0.0003296 g coulomb-1. Calculate the amount of copper deposited by a current of 0.5 ampere flowing through copper sulphate solution for 50 minutes. ?",
       "answers": {
@@ -35,6 +37,7 @@
       "correctAnswer": "b",
       "difficulty": "Medium"
     },
+    
 {
 "question": "3:A solution of copper sulphate electrolysed for 20 minute with a current of 1.5 ampere calculate the mass of copper deposited at the cathode ",
       "answers": {
@@ -44,13 +47,49 @@
         "d": "5.29 gram"
       },
       "explanations": {
-        "a": "We know that, W=EIt/F=2×9650063.52×1.5×20×60=0.593g <a href='www.google.com'>here</a>",
+        "a": "We know that, W=EIt/F=2×9650063.52×1.5×20×60=0.593g",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "A",
+      "correctAnswer": "a",
       "difficulty": "medium"
-    }
+    },
+    
+
+{
+"question": "3:An elecrochemcal equivalent(M) is given by which of the below expression ",
+      "answers": {
+        "a": "M=Z*i*t",
+        "b": "M=Z/i",
+        "c": "M=Z*t",
+        "d": "M=Z*i/t"
+      },
+      "explanations": {
+        "a": "M=Z*i*t ",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "esay"
+    },
+    
+   { "question": "4:Which of the following represents the correct order of electron releasing tendency of metals  ",
+      "answers": {
+        "a": "Zn>Cu>Ag",
+        "b": "Zn>Ag>Cu",
+        "c": "Cu>Ag>Zn",
+        "d": "Cu>Zn>Ag"
+      },
+      "explanations": {
+        "a": "Metals differ in their tendency to release valence electrons. Activity is the chemical name for this tendency to release electrons.The activity series is the arrangement of elements according to their ability to release electrons. The activity series is shown below Li > K > Ba > Sr > Ca > Na > Mg > Al > Mn > Zn > Fe > Cd > Co > Ni > Sn > Pb > H2 > Cu > Hg > Ag > Au ",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+       "correctAnswer": "a",
+      "difficulty": "moderate"
+      },
   ]
 }
