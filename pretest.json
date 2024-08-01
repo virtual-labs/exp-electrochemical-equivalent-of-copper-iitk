@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.Five volts is applied to 2 ohm resistor in series, the resulting current is ?",
+      "answers": {
+        "a": "2.5 Ampere",
+        "b": "25 Ampere",
+        "c": "0.25 Ampere",
+        "d": " no current will flow"
+      },
+      "explanations": {
+        "a": "By ohm's law i=V/R= 5/2=2.5ampere",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.An ammeter is connected to the circuit ?",
+      "answers": {
+        "a": "Parallel ",
+        "b": "series",
+        "c": "both series and parallel",
+        "d": "none of the above "
+      },
+      "explanations": {
+        "a": "Explanation 1 ",
+        "b": "An ammeter is an instrument that is used to measure the current flowing through the circuit. It has low resistance, ideally zero.By connecting the ammeter in series allows all of the circuit current to pass through it, and hence measure it.",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3.What is the purpose of determining the electrochemical equivalent of copper ?",
+      "answers": {
+        "a": " To calculate the atomic mass of copper",
+        "b": "To determine the amount of copper deposited during electrolysis",
+        "c": "To measure the conductivity of copper",
+        "d": " To determine the oxidation state of copper"
+      },
+      "explanations": {
+        "a": "Explanation 1 ",
+        "b": "The electrochemical equivalent of copper is the amount of copper deposited during electrolysis per unit charge passed through the electrolyte. This helps in understanding the relationship between electric current and the amount of substance deposited.",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Moderate"
+    },
+     {
+      "question": "4.What is the relationship between the electrochemical equivalent of copper and the electric charge passed through the electrolyte ?",
+      "answers": {
+        "a": "Inversely proportional",
+        "b": "Directly proportional",
+        "c": "No relationship",
+        "d": " Exponential relationship"
+      },
+      "explanations": {
+        "a": "Explanation 2 ",
+        "b": "According to Faraday's laws of electrolysis, the amount of substance deposited during electrolysis is directly proportional to the electric charge passed through the electrolyte. Therefore, the electrochemical equivalent of copper is directly proportional to the electric charge passed.",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Moderate"
+    },
+    {
+      "question": "5.What is the electrochemical equivalent (ECE) of copper (Cu) in grams per coulomb?",
+      "answers": {
+        "a": "0.000329",
+        "b": "0.00329",
+        "c": "0.0329",
+        "d": "0.329"
+      },
+      "explanations": {
+        "a": "Explanation 2 ",
+        "b": "The electrochemical equivalent (ECE) of a substance is defined as the mass of the substance deposited or liberated at an electrode per unit charge passed through the electrolyte. For copper, the ECE is typically given as 0.00329 g/C. This value comes from experimental data and is derived from the molar mass of copper and Faraday’s constant.",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Moderate"
+    }
+  ]
+}

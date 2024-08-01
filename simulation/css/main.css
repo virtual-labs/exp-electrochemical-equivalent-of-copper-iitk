@@ -1,0 +1,117 @@
+/* You CSS goes in here */
+
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla:opsz,wght@8..30,200;8..30,300;8..30,400;8..30,900&family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Piazzolla",serif;
+}
+html{
+    font-size: 62.5%;
+    /* 1rem= 10px */
+}
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    margin-bottom: 10px;
+}
+li{
+    font-size: 1.5em;
+    margin-bottom: 20px;
+}
+.mainSvg{
+    padding: 1em;
+    margin: 8em;
+    border: 10px solid rgb(43, 151, 16);
+    box-shadow:2px 2px 5px 4px rgba(70, 64, 64, 0.61);
+    border-radius: 10px;
+}
+
+.sidepanel  {
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    height: 250px;
+    top: 0;
+    right: 0;
+    
+    background-color: #6dbae7;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 50px;
+  }
+  #lists{
+    margin-left: 20px;
+    padding: 8px 8px 8px 32px;
+    color:rgb(14, 13, 13);
+  }
+  .sidepanel a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #fff7f7;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidepanel a:hover {
+    color: #6b6969;
+  }
+  
+  .sidepanel .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+  }
+  
+  .openbtn {
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #45a8e1;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+  }
+  
+  .openbtn:hover {
+    background-color:#444;
+  }
+
+
+  .exp{
+      background-color: rgb(184, 11, 40);
+      color: white;
+      padding-left: 15px;
+      padding-top: 15px;
+      padding-bottom: 15px;
+      margin: 0;
+      border-radius: 15px;
+  }
+  .svg{
+      width: 80em;
+      height: 57em;
+      
+      margin-top: 8em;
+      margin-left: auto; 
+      margin-right: auto;
+      margin-bottom: 4em;
+       }
+       .tablestyle{
+        margin: 20px;
+        margin-left: 50px;
+       }
+     table{
+      margin: 20px;
+      border: 2px solid black;
+     }
+     input{
+      margin: 10px;
+     }
+  

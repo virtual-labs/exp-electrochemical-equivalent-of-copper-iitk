@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. What is the unit of electrochemical value of cupper. ?",
+      "answers": {
+        "a": "coulomb/gram",
+        "b": "kg/ampere",
+        "c": "gram/coulomb",
+        "d": "gram/second"
+      },
+      "explanations": {
+        "a": "Explanation 2",
+        "b": "Explanation 2",
+        "c": "Electrochemical equivalent of a substance may be defined as the mass of the substance deposited when a current of 1 Ampere is passed for 1 Second, i.e. a quantity of electricity of one Coulomb is passed. hence its unit is Gram/Coulomb.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. The electrochemical equivalent of copper is 0.0003296 g coulomb-1. Calculate the amount of copper deposited by a current of 0.5 ampere flowing through copper sulphate solution for 50 minutes. ?",
+      "answers": {
+        "a": "0.5478",
+        "b": "0.4944",
+        "c": "0.4577",
+        "d": "insufficient data"
+      },
+      "explanations": {
+        "a": "Explanation 1 ",
+        "b": "According to faraday's first law W=2it,W=0.5×50×60×0.003296=0.4944g",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. A solution of copper sulphate electrolysed for 20 minute with a current of 1.5 ampere calculate the mass of copper deposited at the cathode",
+      "answers": {
+        "a": "0.593 gram",
+        "b": "10 gram",
+        "c": "1.25 gram",
+        "d": "5.29 gram"
+      },
+      "explanations": {
+        "a": "We know that, W=EIt/F=2×9650063.52×1.5×20×60=0.593g ",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "Moderate"
+    },
+     {
+      "question": "4. An elecrochemcal equivalent(M) is given by which of the below expression ?",
+      "answers": {
+        "a": "M=Z*i*t",
+        "b": "M=Z/i",
+        "c": "M=Z*t",
+        "d": "M=Z*i/t"
+      },
+      "explanations": {
+        "a": "M=Z*i*t ",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "Moderate"
+    },
+    {
+      "question": "5. Which of the following represents the correct order of electron releasing tendency of metals ?",
+      "answers": {
+        "a": "Zn>Cu>Ag",
+        "b": "Zn>Ag>Cu",
+        "c": "Cu>Ag>Zn",
+        "d": "Cu>Zn>Ag"
+      },
+      "explanations": {
+        "a": "Metals differ in their tendency to release valence electrons. Activity is the chemical name for this tendency to release electrons.The activity series is the arrangement of elements according to their ability to release electrons. The activity series is shown below Li > K > Ba > Sr > Ca > Na > Mg > Al > Mn > Zn > Fe > Cd > Co > Ni > Sn > Pb > H2 > Cu > Hg > Ag > Au",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "Moderate"
+    }
+  ]
+}
