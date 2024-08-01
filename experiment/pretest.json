@@ -68,6 +68,23 @@
       },
       "correctAnswer": "b",
       "difficulty": "Moderate"
+    },
+    {
+      "question": "5.What is the electrochemical equivalent (ECE) of copper (Cu) in grams per coulomb?",
+      "answers": {
+        "a": "0.000329",
+        "b": "0.00329",
+        "c": "0.0329",
+        "d": "0.329"
+      },
+      "explanations": {
+        "a": "Explanation 2 ",
+        "b": "The electrochemical equivalent (ECE) of a substance is defined as the mass of the substance deposited or liberated at an electrode per unit charge passed through the electrolyte. For copper, the ECE is typically given as 0.00329 g/C. This value comes from experimental data and is derived from the molar mass of copper and Faraday’s constant.",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "Moderate"
     }
   ]
 }
